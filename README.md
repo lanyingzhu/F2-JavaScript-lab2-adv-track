@@ -16,3 +16,8 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+I used these resources in adv lab2:
+while loop
+Array.sort()
+String.charAt()
+forEach()
